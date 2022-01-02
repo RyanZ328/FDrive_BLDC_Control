@@ -4,8 +4,7 @@
 # Fdrive BLDC Controller
 Brushless DC Motor Controller features small size, high voltage, and precise control.
 
-![avatar](Fdrive_Mini_V1.1_Preview.png)
-
+**![](./Fdrive_Mini_V1.1_Preview.png)**
 ## Fdrive Mini V1.1:
 
  Fdrive Mini V1.1 is originated from another BLDC controller project DGM: [DGM Repository](https://github.com/codenocold/dgm). Same schematic, similar layout. Therefore, firmware is compatible with DGM V1.3.
